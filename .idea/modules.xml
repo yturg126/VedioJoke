@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ppjoke/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libcommon/libcommon.iml" filepath="$PROJECT_DIR$/.idea/modules/libcommon/libcommon.iml" group="ppjoke/libcommon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libnavannotation/libnavannotation.iml" filepath="$PROJECT_DIR$/.idea/modules/libnavannotation/libnavannotation.iml" group="ppjoke/libnavannotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libnavcompiler/libnavcompiler.iml" filepath="$PROJECT_DIR$/.idea/modules/libnavcompiler/libnavcompiler.iml" group="ppjoke/libnavcompiler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libnetwork/libnetwork.iml" filepath="$PROJECT_DIR$/.idea/modules/libnetwork/libnetwork.iml" group="ppjoke/libnetwork" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppjoke.iml" filepath="$PROJECT_DIR$/.idea/modules/ppjoke.iml" group="ppjoke" />
+    </modules>
+  </component>
+</project>
